@@ -1,6 +1,6 @@
 # Trivial_1D_Persistence
 
-Code to perform the experiments as described in the paper "Families of point sets with identical 1D persistence".
+Code to perform the experiments as described in the paper "Generic families of finite metric spaces with identical or trivial 1-dimensional persistence".
 
 We start by specifying a range of dimensions and point set sizes. Then for each pair (point set size, dimension), a collection of point sets of the (point set size, dimension) specification are produced. The size of the collection of point sets is determined by the "repetitions" parameter.
 
