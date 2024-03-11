@@ -13,3 +13,5 @@ Plot_Gap_Ratio shows how the median gap ratio changes as the point set size and 
 Plot_Gap_Ratio_Rank_1 shows how the mean gap ratio changes as the point set size and dimension change (for point sets with only one persistent feature).
 
 Plot_Persistent_Hists shows histograms of the persistences of features for a selection of dimensions and point set sizes.
+
+The code is run from the "Experiments.py" script, which uses functions defined in the "Utilities.py" script.
